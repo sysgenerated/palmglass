@@ -1,6 +1,6 @@
 # PalmGlass
 
-Turn a Pixel running GrapheneOS into a trackpad, keyboard and launcher for Xreal glasses.
+Turn a Pixel into a trackpad, keyboard and launcher for Xreal glasses.
 
 The glasses become the monitor through Android's native DisplayPort output and desktop
 windowing. PalmGlass fills the gaps Android leaves open: a pointer driven from the phone
@@ -12,7 +12,8 @@ inject touches on the external display.
 
 ## Requirements
 
-- Pixel 8 or newer on GrapheneOS with desktop windowing (Android 16 QPR3 feature set or later).
+- Pixel 8 or newer on Android 16 QPR3 or later. Developed and tested on GrapheneOS; stock Pixel
+  firmware has the same display output and desktop windowing features.
 - Xreal glasses on the USB-C cable. Any DisplayPort Alt Mode display works the same way.
 - A Bluetooth gamepad is optional. Its input stays with the window on the glasses while the
   touchpad is open.
