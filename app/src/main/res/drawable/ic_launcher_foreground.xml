@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A pair of glasses lenses with a small cursor arrow: 108dp adaptive-icon foreground. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E6EEF5"
+        android:strokeWidth="5"
+        android:pathData="M22,54 a14,12 0 1,0 28,0 a14,12 0 1,0 -28,0 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E6EEF5"
+        android:strokeWidth="5"
+        android:pathData="M58,54 a14,12 0 1,0 28,0 a14,12 0 1,0 -28,0 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E6EEF5"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M50,52 L58,52 M22,52 L16,46 M86,52 L92,46" />
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M62,60 L62,80 L67,75 L71,83 L75,81 L71,73 L78,73 Z" />
+</vector>

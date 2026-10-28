@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PalmGlass</string>
+    <string name="service_label">PalmGlass touchpad</string>
+    <string name="service_description">Lets PalmGlass draw a cursor on your glasses and send taps, drags and scrolls to them from the phone screen. PalmGlass does not read screen content or record anything.</string>
+    <string name="ime_label">PalmGlass keyboard</string>
+    <string name="notification_channel">Touchpad session</string>
+    <string name="notification_title">PalmGlass is active</string>
+    <string name="notification_text">Phone is acting as a touchpad for the glasses.</string>
+    <string name="notification_stop">Stop</string>
+    <string name="connected_title">Glasses connected</string>
+    <string name="connected_text">Tap to open the touchpad.</string>
+</resources>
